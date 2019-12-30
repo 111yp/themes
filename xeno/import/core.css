@@ -42,7 +42,7 @@
     background-attachment: fixed;
     background-origin: border-box;
     -webkit-mask: radial-gradient(#000 40%, transparent);
-    z-index: 0;
+    z-index: -5;
     opacity: var(--backgroundImageOpacity);
   }
   .app-19_DXt {z-index: 200;}
